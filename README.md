@@ -1,6 +1,5 @@
-# DSAM3000Test
-First time using GitHub in DSAM 3000 8 September
-This is the first time using GitHub
-Today is 8 September
+# Philosophy-of-Science-Canon
+Welcome to my DSAM 3000 project!
 
-Crazy
+The aim is to track the proportion of women philosophers publishing in Philosophy of Science from 1960-2020.
+The sources are journal articles published in Philosophy of Science, drawn from the journal's archives at Cambridge University Press.
