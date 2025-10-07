@@ -1,4 +1,4 @@
-# Philosophy-of-Science-Canon
+# Philosophy of Science Canon
 Welcome to my DSAM 3000 project!
 
 The aim is to track the proportion of women philosophers publishing in Philosophy of Science from 1960-2020.
