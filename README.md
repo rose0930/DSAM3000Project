@@ -1,9 +1,14 @@
-# Philosophy of Science Canon
+# Investigating the Origins of the Philosophy of Science Canon
 Welcome to my DSAM 3000 project!
 
-The aim is to track the proportion of women philosophers publishing in Philosophy of Science from 1960-2020.
-<<<<<<< HEAD
-The sources are journal articles published in Philosophy of Science, drawn from the journal's archives at Cambridge University Press.
-=======
-The sources are journal articles published in Philosophy of Science, drawn from the journal's archives at Cambridge University Press.
->>>>>>> 4663b14cd0b727ed68cb483657fb981f2b95ce04
+## Overview
+The aim is to track the proportion of women philosophers publishing in the top four philosophy of science journals from 1970-2020. 
+These journals are *Philosophy of Science*, *British Journal for Philosophy of Science*, *Journal for General Philosophy of Science*, and *European Journal for Philosophy of Science*.
+
+## Sources
+I have collected the references for journal articles from these four journals from 1970-2020 from the [Web of Science][https://www.webofscience.com/wos/author/author-search] database.
+
+I used the query `(((SO=(PHILOSOPHY OF SCIENCE OR JOURNAL FOR GENERAL PHILOSOPHY OF SCIENCE OR BRITISH JOURNAL FOR PHILOSOPHY OF SCIENCE OR EUROPEAN JOURNAL FOR PHILOSOPHY OF SCIENCE)) AND DT=(Article)) AND PY=(1970-2020))` to collect data on published articles from the four journals from 1970-2020.
+
+## Process
+After collecting the articles and cleaning, I applied
